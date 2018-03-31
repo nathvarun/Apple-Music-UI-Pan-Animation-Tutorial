@@ -1,7 +1,7 @@
 # Apple-Music-UI-Pan-Animation-Tutorial
 Learn How to Create the Now playing Toolbar Animation of Apple Music in React Native
 
-![Alt Text](https://giphy.com/gifs/m8yQCIICcSiWj09bWW)
+![Alt Text](https://media.giphy.com/media/m8yQCIICcSiWj09bWW/giphy.gif)
 
 
 ## YouTube Tutorial Video 
